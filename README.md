@@ -2,7 +2,9 @@
 
 ![image](https://github.com/smkhabe/Fake-News-Detection/assets/110238344/9d1c41d1-330a-438d-8e81-7a2c910a0d55)
 
-- You can find the CSV Files into Fake_csv.zip and True_csv,zip files 
+- You can find the CSV Files into Fake_csv.zip and True_csv,zip files
+
+  
 **The data is preprocessed using the following steps:**
 
 Tokenization: The text is split into individual words using the word_tokenize function from the nltk.tokenize module.
