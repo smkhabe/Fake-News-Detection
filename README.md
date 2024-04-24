@@ -17,8 +17,11 @@ Vectorization: The CountVectorizer class from the sklearn.feature_extraction.tex
 Model Training: Four different models are used to classify the news as either fake or not fake:
 
 Logistic Regression: The LogisticRegression class from the sklearn.linear_model module is used.
+
 Decision Tree Classifier: The DecisionTreeClassifier class from the sklearn.tree module is used.
+
 Gradient Boosting Classifier: The GradientBoostingClassifier class from the sklearn.ensemble module is used.
+
 Random Forest Classifier: The RandomForestClassifier class from the sklearn.ensemble module is used.
 
 Model Evaluation: The accuracy of each model is evaluated using the score method. The classification_report function from the sklearn.metrics module is used to generate a detailed report of the precision, recall, and F1-score of each model.
